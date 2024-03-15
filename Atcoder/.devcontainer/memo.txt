@@ -1,0 +1,18 @@
+#dockerFile or yml更新後の反映方法
+#https://qiita.com/nasuB7373/items/523f1392d87dffb5521d
+# dockerfile更新後
+# docker-compose up -d --build
+# yml更新後
+# docker-compose up -d
+# ただし、volumeを更新しただけでも、ビルドが必要?(未検証)
+
+
+
+
+
+#vscode接続情報
+C:\Atcoder をvscodeで開く
+
+左下の「><」から「再度...」を選択
+
+
